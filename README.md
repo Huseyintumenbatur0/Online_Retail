@@ -5,7 +5,7 @@ Bu proje, bir e-ticaret veri seti kullanarak satış tahmini ve müşteri segmen
 ## İçindekiler
 
 - Veri seti: `online_retail.csv`
-- Python kodları: `e_ticaret_projesi.py`
+- Python kodları: `online_retail.ipynb`
 
 ## Kullanılan Kütüphaneler
 
