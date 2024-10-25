@@ -1,6 +1,6 @@
 # E-Ticaret Satış Tahmini ve Müşteri Segmentasyonu Projesi
 
-Bu proje, bir e-ticaret veri seti kullanarak satış tahmini ve müşteri segmentasyonu yapmak amacıyla geliştirilmiştir.
+Bu proje, bir online_retail veri seti kullanarak satış tahmini ve müşteri segmentasyonu yapmak amacıyla geliştirilmiştir.
 
 ## İçindekiler
 
